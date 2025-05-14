@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sahbu.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.27 s -- in com.sahbu.ProductServiceApplicationTests
